@@ -1,0 +1,8 @@
+fastapi[standard]
+sqlalchemy
+alembic
+psycopg2-binary
+pydantic
+pydantic-settings
+celery
+redis
